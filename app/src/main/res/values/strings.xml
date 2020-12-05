@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">shopping list</string>
+    <string-array name="pesenki" >
+        <item>gngnognwioeD</item>
+        <item>gngnognwioeD</item>
+        <item>gngnognwioeD</item>
+        <item>gngnognwioeD</item>
+        <item>gngnognwioeD</item>
+        <item>gngnognwioeD</item>
+    </string-array>
+</resources>
